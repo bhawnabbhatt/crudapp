@@ -1,0 +1,9 @@
+.navbar navbar-default{
+    background-color:red;
+    }
+    .navbar-header{
+        color:green;
+    }
+    .nav navbar-nav{
+        color:orange;
+    }
